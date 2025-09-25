@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Carrega a base
-df = pd.read_excel("base_teste_powerbi.xlsx")
+df = pd.read_excel("base_teste.xlsx")
 df["Data"] = pd.to_datetime(df["Data"])
 
 st.title("🔎 Dashboard Q&A Simulado")
