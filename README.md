@@ -1,7 +1,7 @@
 # Projeto-IA
 
 
-# Dashboard Q&A Simulado com IA (Streamlit)
+# Dashboard Q&A com IA (Streamlit)
 
 Este projeto é um **exemplo de dashboard interativo** desenvolvido em **Python + Streamlit**, que simula um recurso de **Perguntas e Respostas (Q&A)** em cima de uma base de vendas fictícia.
 
