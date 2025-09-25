@@ -37,16 +37,34 @@ projeto-ia/
    cd projeto-ia
 
 
-Instale as dependências:
+2. Instale as dependências:
 
 pip install -r requirements.txt
 
 
-Rode o aplicativo:
+3. Rode o aplicativo:
 
 streamlit run app.py
 
 
-Abra no navegador o link:
+4. Abra no navegador o link:
 
 http://localhost:8501
+
+🖼️ Exemplos de perguntas aceitas
+
+Total de vendas por produto
+
+Total de vendas por região
+
+Evolução das vendas ao longo do tempo
+
+Quantidade vendida por produto
+
+(O app reconhece palavras-chave da pergunta e retorna o gráfico correspondente)
+
+📎 Exportação
+
+O gráfico exibido pode ser baixado em PDF através do botão:
+
+📎 Extrair Anexo (PDF)
