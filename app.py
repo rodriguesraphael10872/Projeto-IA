@@ -9,14 +9,14 @@ df = pd.read_excel("base_teste.xlsx")
 df["Data"] = pd.to_datetime(df["Data"])
 
 # Título
-st.title("🔎 Dashboard Q&A Simulado")
+st.title(" Dashboard Q&A Simulado")
 st.write("Digite uma pergunta sobre as vendas e receba a resposta em gráfico.")
 
 # Input de pergunta
 pergunta = st.text_input("Faça sua pergunta:", "")
 
 # Sugestões
-st.write("💡 Exemplos de perguntas:")
+st.write(" Exemplos de perguntas:")
 st.markdown("""
 - Total de vendas por produto  
 - Total de vendas por região  
