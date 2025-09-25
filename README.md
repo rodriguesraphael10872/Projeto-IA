@@ -1,19 +1,19 @@
 # Projeto-IA
 
 
-# 🧠 Dashboard Q&A Simulado com IA (Streamlit)
+# Dashboard Q&A Simulado com IA (Streamlit)
 
 Este projeto é um **exemplo de dashboard interativo** desenvolvido em **Python + Streamlit**, que simula um recurso de **Perguntas e Respostas (Q&A)** em cima de uma base de vendas fictícia.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- 📊 **Gráficos dinâmicos** baseados em perguntas digitadas pelo usuário  
-- 🏷️ **Rótulos de dados** em todos os gráficos  
-- 📎 **Botão "Extrair Anexo (PDF)"** para exportar o gráfico atual em PDF  
-- 💡 **Caixa de sugestões** para feedback (exemplo de interação de usuário)  
-- 🔮 Exemplo de aplicação de **IA em dashboards** (Q&A simulado)
+-  **Gráficos dinâmicos** baseados em perguntas digitadas pelo usuário  
+-  **Rótulos de dados** em todos os gráficos  
+-  **Botão "Extrair Anexo (PDF)"** para exportar o gráfico atual em PDF  
+-  **Caixa de sugestões** para feedback (exemplo de interação de usuário)  
+-  Exemplo de aplicação de **IA em dashboards** (Q&A simulado)
 
 ---
 
@@ -29,7 +29,7 @@ projeto-ia/
 
 ---
 
-## 🚀 Como rodar localmente
+##  Como rodar localmente
 
 1. Clone este repositório:
    ```bash
@@ -51,7 +51,7 @@ streamlit run app.py
 
 http://localhost:8501
 
-🖼️ Exemplos de perguntas aceitas
+ Exemplos de perguntas aceitas
 
 Total de vendas por produto
 
@@ -63,7 +63,7 @@ Quantidade vendida por produto
 
 (O app reconhece palavras-chave da pergunta e retorna o gráfico correspondente)
 
-📎 Exportação
+ Exportação
 
 O gráfico exibido pode ser baixado em PDF através do botão:
 
