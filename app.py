@@ -9,7 +9,7 @@ df = pd.read_excel("base_teste.xlsx")
 df["Data"] = pd.to_datetime(df["Data"])
 
 # Título
-st.title(" Dashboard Q&A Simulado")
+st.title(" Dashboard Q&A ")
 st.write("Digite uma pergunta sobre as vendas e receba a resposta em gráfico.")
 
 # Input de pergunta
